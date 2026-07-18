@@ -9,7 +9,7 @@ const title = document.querySelector('#title')
 const cover = document.querySelector('#cover')
 
 // Song Titles
-const songs = ['music1', 'music2', 'music3']
+const songs = ['Music1', 'Music2', 'Music3']
 
 // Keep Track of Song
 let songIndex = 1
